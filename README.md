@@ -2,6 +2,8 @@
 
 ![Final ResIN social figure](resin_social_takeaway.png)
 
+> **AI disclosure:** This entire analysis—including the coding, analysis script, and figure—was AI generated. It is an exploratory demonstration, not a peer-reviewed study.
+
 ## Takeaway
 
 In the 2024 U.S. General Social Survey, the six strong-optimism answers form a complete response network: all 15 possible cross-question links remain in the displayed ResIN. Only 9 of the 15 equivalent links remain among strong-concern answers. In the full zero-offset network, neutral answers connect 2.6 times more strongly to concern than to optimism.
